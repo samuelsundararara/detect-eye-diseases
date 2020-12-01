@@ -11,7 +11,7 @@ from starlette.staticfiles import StaticFiles
 from starlette.templating import Jinja2Templates
 from starlette.routing import Route
 
-export_file_url = 'https://drive.google.com/uc?export=download&id=1U6vmC0eY_ejOvFvHIjXUsvI7Jsn31SRd'
+export_file_url = 'https://drive.google.com/uc?export=download&id=1-qE7Z1Z4htGkgY4h0kmZdPTCRZ376wYw'
 export_file_name = 'export.pkl'
 
 classes = ['cataract', 'glaucoma', 'normal', 'retina_disease']
